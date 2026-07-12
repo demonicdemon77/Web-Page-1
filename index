@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - My Website</title>
+</head>
+<body>
+
+    <h1>Welcome to My Website</h1>
+
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About</a> |
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <hr>
+
+    <h2>Assignment Links</h2>
+
+    <p>
+        <a href="about.html">Relative</a>
+    </p>
+
+    <p>
+        <a href="https://demonicdemon77.github.io/web-page-1/">
+            Absolute
+        </a>
+    </p>
+
+    <h2>Home Page</h2>
+
+    <p>
+        This is the home page for my Web Design assignment.
+        The navigation above allows you to visit all three pages.
+    </p>
+
+</body>
+</html>
